@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HybridCodes
-- 👀 I’m interested in Computer Programming, Networking, Ethical Hacking, Machine Learning...
+- 👀 I’m interested in Computer Programming, Web Development, Networking, Ethical Hacking, Machine Learning...
 - 🌱 I’m currently learning C++, Python, R and SQL...
-- 💞️ I’m looking to collaborate on ...(nothing yet)
+- 💞️ I’m looking to collaborate on anything i may find interest in🤗
 - 📫 How to reach me:
     - Twitter / Instagram: @skye_pod3
     - Discord: skyee#6015
