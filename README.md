@@ -5,6 +5,7 @@
 - 📫 How to reach me:
     - Twitter / Instagram: @skye_pod3
     - Discord: skyee#6015
+    - LinkedIn: http://linkedin.com/in/deandra-buckman-bb03261a5
 
 <!---
 HybridCodes/HybridCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
