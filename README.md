@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on **nothing.. (at the moment)**
 
-- 🌱 I’m currently learning **Machine Learning, and Artificial Intelligence. (Also Ethical Hacking & Cybersecurity).**
+- 🌱 I’m currently learning **Penetration Testing & Cybersecurity.**
 
 - 👯 I’m looking to collaborate on [anything](https://www.instagram.com/deanzsh_)
 
 - 🤝 I’m looking for help with **nothing.. (at the moment)**
 
-- 💬 Ask me about **python, react, javascript**
+<!-- - 💬 Ask me about **python, react, javascript** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
