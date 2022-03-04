@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Flask full stack web app**
 
-- 🌱 I’m currently learning **Cloud Computing, Penetration Testing & Cybersecurity.**
+- 🌱 I’m currently learning **C++, Cloud Computing, Penetration Testing & Cybersecurity.**
 
 - 👯 I’m looking to collaborate on [anything](https://t.me/li5elle)
 
