@@ -38,6 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xlisel&theme=shades-of-purple&hide_border=true&show_icons=true&locale=en" alt="li5elle" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xlisel&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- somehow this streaks refuse to work -->
 
 <!---
 HybridCodes/HybridCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
