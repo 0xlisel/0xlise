@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Flask full stack web app**
 
-- 🌱 I’m currently learning **C++, Cloud Computing, Penetration Testing & Cybersecurity.**
+- 🌱 I’m currently learning **Digital Forensics, Cloud Computing, Penetration Testing & Cybersecurity.**
 
 - 👯 I’m looking to collaborate on [anything](https://t.me/li5elle)
 
@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deanzsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="deanzsh" height="30" width="40" /></a>
-<a href="https://twitter.com/skye_pod3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skye_pod3" height="30" width="40" /></a>
-<a href="https://instagram.com/deanzsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deanzsh_" height="30" width="40" /></a>
+<a href="https://twitter.com/0xlisel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skye_pod3" height="30" width="40" /></a>
+<a href="https://instagram.com/lisel0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deanzsh_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akualisel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akualisel" height="30" width="40" /></a>
 </p>
 
