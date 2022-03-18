@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4ckr0ot&label=Profile%20views&color=0e75b6&style=flat" alt="h4ckr0ot" /> </p>
 
-- 🔭 I’m currently working on **Flask full stack web app**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Digital Forensics, Cloud Computing, Penetration Testing & Cybersecurity.**
+- 🌱 I’m currently learning **Digital Forensics, Networking, ML & Cybersecurity.**
 
 - 👯 I’m looking to collaborate on [anything](https://t.me/li5elle)
 
