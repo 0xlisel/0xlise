@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Digital Forensics, Networking, ML & Cybersecurity.**
 
-- 👯 I’m looking to collaborate on [anything](https://t.me/li5elle)
+- 👯 I’m looking to collaborate on [anything](https://t.me/lisel0x)
 
 - 🤝 I’m looking for help with **nothing.. (at the moment)**
 
