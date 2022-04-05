@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Digital Forensics, Networking, ML & Cybersecurity.**
+- 🌱 I’m currently learning **C#, Digital Forensics, Networking, ML & Cybersecurity.**
 
 - 👯 I’m looking to collaborate on [anything](https://t.me/lisel0x)
 
