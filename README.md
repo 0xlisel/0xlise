@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Network Programmability & Internet of Thingd.**
+- 🌱 I’m currently learning **Network Programmability & Internet of Things.**
 
 - 👯 I’m looking to collaborate on [anything](https://t.me/lisel0x)
 
